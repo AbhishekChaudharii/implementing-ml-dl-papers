@@ -20,11 +20,17 @@ Loss Functions:
 Deep Learning:
 - [x] Conv1D
 - [x] Vanilla RNN Cell
+- [ ] Conv2D
 
 Linear Algebra & Core Ops:
 - [x] Dot Product 
 - [x] Outer Product 
 - [x] Element-wise Multiplication (Pure Python + NumPy validation)
 - [x] Matrix Multiplication (with and without NumPy)
+
+Building Blocks of Transformer Architecture
+- [X] Self-Attention
+- [X] Scaled Dot-Product Attention
+- [ ] Masked Attention
 
 
