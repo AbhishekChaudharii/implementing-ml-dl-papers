@@ -31,6 +31,7 @@ Linear Algebra & Core Ops:
 Building Blocks of Transformer Architecture
 - [X] Self-Attention
 - [X] Scaled Dot-Product Attention
-- [ ] Masked Attention
+- [x] Masked Attention
+- [ ] Multi-Head Attention
 
 
