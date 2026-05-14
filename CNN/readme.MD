@@ -1,2 +1,2 @@
 - [x] Conv1d
-- [ ] Conv2d
+- [x] Conv2d

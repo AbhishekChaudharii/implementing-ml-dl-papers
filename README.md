@@ -20,7 +20,7 @@ Loss Functions:
 Deep Learning:
 - [x] Conv1D
 - [x] Vanilla RNN Cell
-- [ ] Conv2D
+- [x] Conv2D
 
 Linear Algebra & Core Ops:
 - [x] Dot Product 
